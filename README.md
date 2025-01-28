@@ -6,7 +6,10 @@ https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
 # Notebook contains following steps:
 -Data cleaning and analysis to suit using with machine learning models.
+
 -Data visualization to extract relationships between features and provide better understanding of data.
+
 -Feature extracting and engineering.
+
 -Training and evaluating machine learning models from sklearn library(RandomForest, SVM, K-Neighbors) on data then comparing their performance.
--
+
