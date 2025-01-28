@@ -4,7 +4,7 @@ House price prediction python project with the main goal to clean, analyze, and 
 The dataset for this project can be found on Kaggle at the following link: 
 https://www.kaggle.com/c/house-prices-advanced-regression-techniques/data
 
-Project notebook contains following steps:
+# Notebook contains following steps:
 -Data cleaning and analysis to suit using with machine learning models.
 -Data visualization to extract relationships between features and provide better understanding of data.
 -Feature extracting and engineering.
